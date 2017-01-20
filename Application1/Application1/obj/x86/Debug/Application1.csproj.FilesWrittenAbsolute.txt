@@ -1,0 +1,5 @@
+/Users/shanirosen/Projects/Application1/Application1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/shanirosen/Projects/Application1/Application1/bin/Debug/Application1.exe.mdb
+/Users/shanirosen/Projects/Application1/Application1/bin/Debug/Application1.exe
+/Users/shanirosen/Projects/Application1/Application1/obj/x86/Debug/Application1.exe
+/Users/shanirosen/Projects/Application1/Application1/obj/x86/Debug/Application1.exe.mdb
