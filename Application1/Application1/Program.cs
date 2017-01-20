@@ -9,7 +9,7 @@ namespace Application
 	{
 		static void Main(string[] args)
 		{
-			bool[,] map = new bool[4, 4] { { false, false, true, false }, { false, false, true, true }, { true, true, false, false }, { false, true, false, false } };
+			bool[,] map = new bool[4, 4] { { false, true, false, false }, { true, false, true, true }, { false, true, false, true }, { false, true, true, false } };
 			int k = 2;
 			List<int> covered = new List<int>();
 			int current = 0;
